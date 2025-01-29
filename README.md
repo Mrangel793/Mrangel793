@@ -5,7 +5,7 @@
 **Desarrolladora Full Stack** recién egresada del SENA, enfocada en crear soluciones técnicas con impacto real.  
 - 🛠️ **Tecnologías que domino**: PHP/Laravel, Python/Django, Angular  
 - 🌱 **Explorando**: Flutter para apps móviles & AWS  
-- 🏅 **Logro reciente**: Incrementé un 30% usuarios móviles en MarketCheck con Flutter  
+- 🏅 **Logro reciente**: Implemente un modelo de random forest para impacto social
 - 💬 **Hablemos de**: Cómo optimizar APIs REST, metodologías ágiles, o por qué el café es el combustible de los devs ☕  
 
 ### 📬 Conéctate Conmigo  
